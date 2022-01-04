@@ -8,7 +8,7 @@ Main areas of focus are in JavaScript(TypeScript), HTML5/CSS3 (Sass), Angular, R
 
 Enjoy working closely with team members to ensure workloads are effectively redirected.
 
-Relaying on a personal work experience, I like to propose UI and UX improvements to the products and make a Web apps more intuite easy to use for the users.
+Relaying on a personal work experience, I like to propose UI and UX improvements to the products and make a Web apps more intuite and easy to use for the users.
 
 Have an excellent interpersonal and communication skills and patience to listen and analyse every opinion.
 
